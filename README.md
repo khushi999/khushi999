@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Khushi
 
-<!--
-**khushi999/khushi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:**
+- 😄 Pronouns: She/Her
+- 🎓 I am currently a 3rd-year Computer Science student at York University.
 
-Here are some ideas to get you started:
+**Languages and 𝚃𝚘𝚘𝚕𝚜:**
+Python.js
+JavaScript.js
+Node.js
+Java
+C Language
+HTML5.js
+React.js
+MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contacts:**
+![image](https://github.com/khushi999/khushi999/assets/83177168/bfff6bb3-8d13-4f5b-96e7-f6de4a5503a9)
