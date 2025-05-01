@@ -2,4 +2,4 @@
 
 **About Me:**
 - 😄 Pronouns: She/Her
-- 🎓 I am currently a 3rd-year Computer Science student at York University.
+- 🎓 I am a recent graduate in Computer Science from York University.
