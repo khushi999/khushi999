@@ -33,7 +33,7 @@
   <a href="mailto:khushi999jain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://khushi999.github.io" target="_blank">
+  <a href="https://khushi999.github.io/khushijain.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
