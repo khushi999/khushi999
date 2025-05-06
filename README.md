@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Data Science Enthusiast & Software Developer <br/>
-  🎓 B.Sc. Honours in Computer Science, York University <br/>
+  🎓 B.Sc. in Computer Science, York University <br/>
   🌍 Based in Toronto | Originally from 🇮🇳 India
 </p>
 
@@ -11,26 +11,16 @@
 ### ✨ About Me
 
 - 👩‍💻 I’m passionate about building with **data, AI, and clean code**
-- 🧪 Former **Data Science Intern @ TD Bank** (Summer 2025)
-- 🛠 Organizer at **ElleHacks** — managing hackathons & tech projects
-- 📹 I document my journey via YouTube (@iaishasultan25)
+- 🧪 Former **Data Science Intern @ TD Bank** (Winter 2025)
 
 ---
 
 ### 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,java,sql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,react,nodejs,fastapi,azure,aws,docker,git,github,linux" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi999&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi999&theme=react" width="48%" />
-</p>
 
 ---
 
@@ -45,9 +35,6 @@
   </a>
   <a href="https://khushi999.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@iaishasultan25" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
