@@ -1,21 +1,59 @@
-### Hi there 👋, I'm Khushi
+<h1 align="center">Hi there 👋, I'm Khushi Jain</h1>
 
-**About Me:**
-- 😄 Pronouns: She/Her
-- 🎓 I am a recent graduate in Computer Science from York University.
+<p align="center">
+  💻 Data Science Enthusiast & Software Developer <br/>
+  🎓 B.Sc. Honours in Computer Science, York University <br/>
+  🌍 Based in Toronto | Originally from 🇮🇳 India
+</p>
 
-𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-TypeScript JavaScript Python Java Go SQL HTML CSS
+---
 
-𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
-Next.js React Node.js Express Spring Boot Astro Svelte Flask Gin Django Redux TailwindCSS GSAP Framer Motion Selenium Appium
+### ✨ About Me
 
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 & 𝗢𝗥𝗠𝘀
-PostgreSQL MySQL DynamoDB DrizzleORM Prisma Redis MongoDB NoSQL
+- 👩‍💻 I’m passionate about building with **data, AI, and clean code**
+- 🧪 Former **Data Science Intern @ TD Bank** (Summer 2025)
+- 🛠 Organizer at **ElleHacks** — managing hackathons & tech projects
+- 📹 I document my journey via YouTube (@iaishasultan25)
 
-𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀
-AWS Docker Vercel Cloudflare Supabase AWS S3 AWS EC2 AWS RDS AWS Lambda AWS Amplify Convex Clerk
+---
 
-𝗧𝗼𝗼𝗹𝘀 & 𝗢𝘁𝗵𝗲𝗿𝘀
-Git Figma Sentry Postman Notion Linux Unreal Engine Unity
+### 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,java,sql,git,github,vscode,figma" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi999&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi999&theme=react" width="48%" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/khushi-jain01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:khushi999jain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://khushi999.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@iaishasultan25" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> I’m currently balancing data science projects, gym life, and content creation — and loving every second of it!
+
