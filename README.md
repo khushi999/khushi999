@@ -12,6 +12,7 @@
 
 - 👩‍💻 I’m passionate about building with **data, AI, and clean code**
 - 🧪 Former **Data Science Intern @ TD Bank** (Winter 2025)
+- I am currently working on a thematic analysis and AI modelling to indentify and predict when a person with dementia is loosing track of activity.
 
 ---
 
