@@ -44,4 +44,28 @@
 ### ✨ Fun Fact
 
 > I’m currently balancing data science projects, gym life, and content creation — and loving every second of it!
+> I am also starting Neetcode 150 (DSA) as part of my technical interview preparation.
+
+
+### 📚 NeetCode 150 Progress
+
+- [ ] Arrays & Hashing (10/10)
+- [ ] Two Pointers (5/5)
+- [ ] Sliding Window (0/4)
+- [ ] Stack (0/6)
+- [ ] Binary Search (0/8)
+- [ ] Linked List (0/10)
+- [ ] Trees (0/14)
+- [ ] Tries (0/3)
+- [ ] Heap / Priority Queue (0/6)
+- [ ] Backtracking (0/8)
+- [ ] Graphs (0/13)
+- [ ] Advanced Graphs (0/7)
+- [ ] 1D DP (0/8)
+- [ ] 2D DP (0/5)
+- [ ] Greedy (0/6)
+- [ ] Intervals (0/6)
+- [ ] Math & Geometry (0/7)
+- [ ] Bit Manipulation (0/4)
+- [ ] Database (0/6)
 
