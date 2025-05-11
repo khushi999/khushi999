@@ -44,5 +44,5 @@
 ### ✨ Fun Fact
 
 > I’m currently balancing data science projects, gym life, and content creation — and loving every second of it!
-> I am also starting Neetcode 150 (DSA) as part of my technical interview preparation.
+> I am also starting Neetcode 150 (DSA) as part of my technical interview
 
